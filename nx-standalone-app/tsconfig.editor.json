@@ -1,6 +1,9 @@
 {
   "extends": "./tsconfig.json",
-  "include": ["src/**/*.ts"],
+  "include": [
+    "src/**/*.ts",
+    "nx-welcome/src/lib/nx-welcome.component/nx-welcome.component.ts"
+  ],
   "compilerOptions": {
     "types": ["jest", "node"]
   }

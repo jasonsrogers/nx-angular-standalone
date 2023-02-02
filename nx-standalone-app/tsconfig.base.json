@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@nx-standalone-app/cart": ["cart/src/index.ts"],
+      "@nx-standalone-app/nx-welcome": ["nx-welcome/src/index.ts"],
       "@nx-standalone-app/shared/ui": ["shared/ui/src/index.ts"]
     }
   },
