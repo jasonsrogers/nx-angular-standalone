@@ -13,7 +13,7 @@
       },
       "configurations": {
         "production": {
-          "tsConfig": "shared/ui/tsconfig.lib.prod.json"
+        "tsConfig": "shared/ui/tsconfig.lib.prod.json"
         },
         "development": {
           "tsConfig": "shared/ui/tsconfig.lib.json"
